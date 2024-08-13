@@ -12,7 +12,7 @@ public class Enter_x {
             System.out.println("Please enter the correct input");
             num = input.next();
         }
-        System.out.println("Congrats You have enter the correct word");
+        System.out.println("Congrats You have enter the Correct word");
 
 
     }
